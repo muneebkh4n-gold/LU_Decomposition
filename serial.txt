@@ -1,0 +1,2 @@
+Time taken: 1.74, n=1000
+Time taken: 1.652, n=1000
